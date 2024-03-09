@@ -24,5 +24,9 @@ In total we then have $0+8+12+6+1=27$ unit cubes - which makes total sense, give
 Now let us find it what the sought probability is.\\
 The first step is finding out what the probabilty of drawing a cube with $j$ painted faces is. This can be expressed as follows: $(Number of unit cubes with j red faces)/(Total number of unit cubes)$.
 For the different cases we have:
-* $\frac{(Number of unit cubes with between 4 and 6 red faces)}{(Total number of unit cubes)}=$
+* $(Number of unit cubes with between 4 and 6 red faces)/(Total number of unit cubes)=\frac{0}{n^3}=0$
+* $(Number of unit cubes with 3 red faces)/(Total number of unit cubes)=\frac{8}{n^3}=0$
+* $(Number of unit cubes with 2 red faces)/(Total number of unit cubes)=\frac{12(n-2)}{n^3}=0$
+* $(Number of unit cubes with 1 red face)/(Total number of unit cubes)=\frac{6(n-2)^2}{n^3}=0$
+* $(Number of unit cubes with 0 red faces)/(Total number of unit cubes)=\frac{(n-2)^3}{n^3}=0$
 
