@@ -20,3 +20,9 @@ Let us make an example for $n=3$.
 * $(3-2)^3=1$ unit cube has 0 painted faces.
 
 In total we then have $0+8+12+6+1=27$ unit cubes - which makes total sense, given that $3^3=27$.
+
+Now let us find it what the sought probability is.\\
+The first step is finding out what the probabilty of drawing a cube with $j$ painted faces is. This can be expressed as follows: $(Number of unit cubes with j red faces)/(Total number of unit cubes)$.
+For the different cases we have:
+* $\frac{(Number of unit cubes with between 4 and 6 red faces)}{(Total number of unit cubes)}=$
+
