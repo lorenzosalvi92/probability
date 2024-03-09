@@ -18,4 +18,5 @@ Let us make an example for $n=3$.
 * $12(3-2)=12$ unit cubes have 2 painted faces.
 * $6(3-2)^2=6$ unit cubes have 1 painted face.
 * $(3-2)^3=1$ unit cube has 0 painted faces.
+
 In total we then have $0+8+12+6+1=27$ unit cubes - which makes total sense, given that $3^3=27$.
