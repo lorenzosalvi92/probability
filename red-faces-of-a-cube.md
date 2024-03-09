@@ -36,8 +36,10 @@ The second step is finding the probability of the drawn unit cube stopping with 
 * Probability of the drawn unit cube stopping with the red face on top given that this unit cube has 1 red faces = $1/6$
 * Probability of the drawn unit cube stopping with the red face on top given that this unit cube has 0 red faces = $0$
 
-We now have all the elements to answer the question.
-Probability that the unit cube that has been drawn from the bag and tossed across the table stops with the red face on top = $\frac{8}{n^3}\frac{1}{2}$ + $\frac{12(n-2)}{n^3}\frac{1}{3}$ + $\frac{6(n-2)^2}{n^3}\frac{1}{6}$ + $\frac{(n-2)^3}{n^3}\frac{0}{6}$
-
+We now have all the elements to answer the question.\\
+The probability that the unit cube that has been drawn from the bag and tossed across the table stops with the red face on top is 
+```math
+$\frac{8}{n^3}\frac{1}{2}$ + $\frac{12(n-2)}{n^3}\frac{1}{3}$ + $\frac{6(n-2)^2}{n^3}\frac{1}{6}$ + $\frac{(n-2)^3}{n^3}\frac{0}{6}$
+```
 
 
