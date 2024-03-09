@@ -5,7 +5,7 @@ The outside of an n $\times$ n $\times$ n cube is painted red. The cube then is 
 **Solution**
 
 For $n=1$, all the faces are red. The sought probabilty is therefore 1.
-For $n>1$, the n^3 unit cubes have can have a different number of red faces. Let us list all the possible cases:
+For $n>1$, the $n^3$ unit cubes have can have a different number of red faces. Let us list all the possible cases:
 * 0 unit cube have **between 4 and 6 painted faces**.
 * 8 unit cubes have **3 painted faces**. Those are the unit cubes placed at the 8 vertices of the big cube.
 * $12(n-2)$ unit cubes have **2 painted faces**. Those are the unit cubes that build the edges of the big cube, excluding the unit cubes at the vertices.
