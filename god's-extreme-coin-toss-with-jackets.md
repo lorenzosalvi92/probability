@@ -10,7 +10,7 @@ Let us first write down the probabilities that the events of our sample space oc
 * If the result of the coin flip is heads, my jacket is sure to be red. Formally, $P(R|H)=1$ (and $P(B|H)=0$).
 * If the result of the coin flip is tails, then my jacket is red with probability $\frac{1}{1'000'001}$ and blue with probability $\frac{1.000.000}{1.000.001}$. Formally $P(R|T)=\frac{1}{1.000.001}$ and $P(B|T)=\frac{1.000.000}{1.000.001}$.
 
-This amounts to saying that:
+This amounts to saying that, with the same probabilty, I could be in one of two worlds:
 * I could be in a world inhabited by a single person - that would be me! In that case, my jacket would be red.
 * I could be in a world inhabited by 1.000.0001 people. In that case, my jack could be either red or blue.
 
