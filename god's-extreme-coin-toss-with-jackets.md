@@ -15,4 +15,4 @@ This amounts to saying that:
 * I could be in a world inhabited by 1.000.0001 people. In that case, my jack could be either red or blue.
 
 But does the color really play a role here? After all, the room is dark and I can't see. All I know is that I have a jacket on.
-What I can do is to compute $P(H|J)$, i.e. the probability that God flips heads *given* the fact that I have a jacket on. 
+What I can do is to compute $P(H|J)$, i.e. the probability that God flips heads *given the fact* that I have a jacket on. 
