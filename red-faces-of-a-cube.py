@@ -1,5 +1,5 @@
 '''
-https://www.cut-the-knot.org/Probability/RedFaces.shtml
+WORK IN PROGRESS
 '''
 
 import math
