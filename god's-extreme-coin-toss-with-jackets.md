@@ -19,3 +19,4 @@ What I can do is to compute $P(H|J)$, i.e. the probability that God flips heads 
 ```math
 P(H|J)=\frac{P(J|H)P(H)}{P(J)}=\frac{1 \times 1/2}{1}=1/2
 ```
+As far as I call tell right now, this makes sense. Since no information on the color is available, my estimate coincides with the probability of getting heads.
