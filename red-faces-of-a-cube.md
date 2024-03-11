@@ -45,4 +45,9 @@ The probability that the unit cube that has been drawn from the bag and tossed a
 \frac{8}{n^3}\frac{1}{2}+\frac{12(n-2)}{n^3}\frac{1}{3}+\frac{6(n-2)^2}{n^3}\frac{1}{6}+\frac{(n-2)^3}{n^3}\frac{0}{6}\\=\frac{4}{n^3}+\frac{4(n-2)}{n^3}+\frac{(n-2)^2}{n^3}=\frac{4+4n-8+n^2+4-4n}{n^3}=\frac{n^2}{n^3}=\frac{1}{n}
 ```
 
+\begin{split}
+\frac{8}{n^3}\frac{1}{2}+\frac{12(n-2)}{n^3}\frac{1}{3}+\frac{6(n-2)^2}{n^3}\frac{1}{6}+\frac{(n-2)^3}{n^3}\frac{0}{6}
+& =\frac{4}{n^3}+\frac{4(n-2)}{n^3}+\frac{(n-2)^2}{n^3}=\frac{4+4n-8+n^2+4-4n}{n^3}=\frac{n^2}{n^3}=\frac{1}{n}
+
+\end{split}
 
