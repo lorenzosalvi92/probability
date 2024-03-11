@@ -1,10 +1,10 @@
 **Statement of the problem**
 
-The outside of an n $\times$ n $\times$ n cube is painted red. The cube then is chopped into $n^3$ unit cubes. The latter are thoroughly mixed up and put into a bag. One small cube is withdrawn at random from the bag and tossed acrossed the table. What is the probability that the cube stops with the red face on top? (source: https://www.cut-the-knot.org/Probability/RedFaces.shtml)
+The outside of an $n \times n \times n$ cube is painted red. The cube then is chopped into $n^3$ unit cubes. The latter are thoroughly mixed up and put into a bag. One small cube is withdrawn at random from the bag and tossed acrossed the table. What is the probability that the cube stops with the red face on top? (source: https://www.cut-the-knot.org/Probability/RedFaces.shtml)
 
 **Solution**
 
-For $n=1$, all the faces are red. The sought probabilty is therefore 1.
+For $n=1$, all the faces are red. The sought probabilty is therefore 1.\br
 For $n>1$, the $n^3$ unit cubes have can have a different number of red faces. Let us list all the possible cases:
 * 0 unit cube have **between 4 and 6 painted faces**.
 * 8 unit cubes have **3 painted faces**. Those are the unit cubes placed at the 8 vertices of the big cube.
