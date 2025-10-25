@@ -12,7 +12,7 @@ Let us first write down the probabilities that the events of our sample space oc
 
 This amounts to saying that, with the same probabilty, I could be in one of two worlds:
 * A world inhabited by a single person, myself. In that case, my jacket would be red.
-* A world inhabited by 1.000.0001 people. In that case, my jack could be either red or blue.
+* A world inhabited by 1.000.0001 people. In that case, my jacket could be either red or blue.
 
 But does the color really play a role here? After all, the room is dark and I can't see. All I know is that I have a jacket on.  
 What I can do is to compute $P(H|J)$, i.e. the probability that God flips heads *given the fact* that I have a jacket on.
